@@ -20,25 +20,8 @@ This analysis studies the success or failure rate of a campaign based on the mon
 
 This analysis only focuses on campaigns under the category Theater, studying a total of 1369 campaigns. 
 
-Parent Category	theater			
-Years	(All)			
-				
-Count of outcomes	Column Labels			
-Row Labels	successful	failed	canceled	Grand Total
-Jan	56	33	7	96
-Feb	71	39	3	113
-Mar	56	33	3	92
-Apr	71	40	2	113
-May	111	52	3	166
-Jun	100	49	4	153
-Jul	87	50	1	138
-Aug	72	47	4	123
-Sep	59	34	4	97
-Oct	65	50		115
-Nov	54	31	3	88
-Dec	37	35	3	75
-Grand Total	839	493	37	1369
-![image](https://user-images.githubusercontent.com/79733383/110225805-d7869080-7eb6-11eb-97cf-ac3a53bbed2a.png)
+
+[image](https://user-images.githubusercontent.com/79733383/110225805-d7869080-7eb6-11eb-97cf-ac3a53bbed2a.png)
 
 The Output chart shows the number of campaigns that were successful, failed or were canceled in each launching month. 
 [Outcome based on Launching months Chart] (https://github.com/Lamismn/Kickstarter-analysis/blob/main/Resources/Theater_Outcome_vs_Launch.png)
