@@ -21,16 +21,20 @@ This analysis studies the success or failure rate of a campaign based on the mon
 This analysis only focuses on campaigns under the category Theater, studying a total of 1369 campaigns. 
 
 
-[image](https://user-images.githubusercontent.com/79733383/110225805-d7869080-7eb6-11eb-97cf-ac3a53bbed2a.png)
+<img width="317" alt="tabke 1" src="https://user-images.githubusercontent.com/79733383/110226255-bb392280-7ebb-11eb-8cc5-ec58716dcc8b.PNG">
+
+
+As shown in the above table, the data shows that the maximum number of campaigns was launched in May, whereas the minimum nubmer launched was in December. It also shows that the number of campaigns launched is generally more in summer months than in winter months, with the exception of October, which is relatively higher than other winter months.
 
 The Output chart shows the number of campaigns that were successful, failed or were canceled in each launching month. 
 [Outcome based on Launching months Chart] (https://github.com/Lamismn/Kickstarter-analysis/blob/main/Resources/Theater_Outcome_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-This part of teh analysis studies the success or failure of the campaigns based on the financial goal they are requesting, over the same period from 2009 till 2017.
+This part of the analysis studies the success or failure of the campaigns based on the financial goal they are requesting, over the same period from 2009 till 2017.
 
 This analysis focuses only on campaigns under the category Theater & the subcategory plays to give a more relavent view of similar projects.
+
 
 The output chart of this analysis shows the percentage of success and failure based on the goal, goal values are divided in intervals starting from less than 1000, between 1000 and 4999, and then equal intervals of 5000 increments till 50000, and then above 50000.
 
