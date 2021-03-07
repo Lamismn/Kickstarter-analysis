@@ -59,7 +59,7 @@ Based on the Analysis conducted, we can conclude the following results:
 
 We can conclude from the chart that the month of May has the highest probability of success for campaigns, as well as the highest number of campaigns launched, followed by the months of June then July. This means that launching the campaign in May would be the best option.
 
-The Chart also shows that the month of December has the lowest success rate for campaigns as well as the lowest number of campaigns launched, so it is advised to avoid launching a campaign in this month
+The Chart also shows that the month of December has the lowest success rate for campaigns as well as the lowest number of campaigns launched, so it is advised to avoid launching a campaign during this month
 
 We can also conclude that launching a campaign in a hotter weather month gives it a better chance of success than launching it in a cooler month.
 
@@ -70,6 +70,24 @@ We can conclude from the chart that plays with goals less than $5000 have the hi
 The chart also shows that the plays with goals between $35000 and $45000 do not follow the general pattern of decreasing probability of success as the goal increases.
 
 ### Limitations of the dataset
+
+One of the limitations of the dataset is that the analysis based on goals only considers the percentage of successful & failed campaigns without considering the total number. This shows a problem in intervals like the goals between $35000 and $45000 where the total number of projects is 9 but the probability of success is 66.7%.
+
+Also there is the limitation that the data used for this analysis is extracted off of only one crowd funding website, which does not give a complete picture of crowd funding campaigns in general. This website may be more active in some countries than in others or during some periods than others, for example, in year 2017, the total number of theater campaigns significantly drops (31 in 2017 vs 391 in 2016). This drop may for example be caused by some technical problems in the website, or by any other cause, but it does affect the integrity of our data.
+
+Another limitation is the variation in the funding goal currency, which is not considered in the analysis, the currency exchange rates may affect the ultimate value of the campaign & change its positioning from one interval to another, thus affecting the chart outcomes
+
+### Suggestions for possible tables and graphs
+
+An additional bar graph analyzing data by the length of the campaign to show the success rate related to the campaign length
+
+An additional line chart showing the average donation per backer vs the total goal, to show if the average tends to increase for campaigns with a higher goal.
+
+An additional chart for failed campaigns analyzing the goal & the pledged amounts relating to the launch month  
+
+
+
+
 
 
 
