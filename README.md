@@ -26,6 +26,7 @@ This analysis only focuses on campaigns under the category Theater, studying a t
 As shown in the above table, the data shows that the maximum number of campaigns was launched in May, whereas the minimum nubmer launched was in December. It also shows that the number of campaigns launched is generally more in hotter months than in cooler months, with the exception of October, which is relatively higher than other cold months.
 
 The Output chart shows the number of campaigns that were successful, failed or were canceled in each launching month. 
+
 [Outcome based on Launching months Chart] (https://github.com/Lamismn/Kickstarter-analysis/blob/main/Resources/Theater_Outcome_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -37,7 +38,7 @@ This analysis focuses only on campaigns under the category Theater & the subcate
 
 <img width="701" alt="table 2" src="https://user-images.githubusercontent.com/79733383/110227017-dc047680-7ec1-11eb-8ee4-289a683226c9.PNG">
 
-As Shown in the above table,  the highest number of projects had their goals between $1000 and $5000, whereas the smallest number had was that of projects between $45000 and 50000$
+As Shown in the above table,  the highest number of projects had their goals between $1000 and $5000, whereas the smallest number had was that of projects between $45000 and $50000
 
 The analysis also shows that no campaigns for plays were canceled within our datset
 
