@@ -18,6 +18,6 @@ The Purpose of this analysis is to find the trends of Kickstarter plays campaign
 
 This analysis studies the success or failure rate of a plays campaign based on the month it was launched, analyzing play campaigns that were launched from the year 2009 till the year 2017.
 
-
+[Outcome vs goals chart] (https://github.com/Lamismn/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 
