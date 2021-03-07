@@ -48,8 +48,7 @@ The output chart of this analysis shows the percentage of success and failure ba
 
 ### Challenges and Difficulties Encountered
 
-
-
+One of the challlenges that is not considered in this analysis is the currency exchange rate, the dataset does not consider it which means that the goal & pledged values do not give an accurate representation of the actual data points. Had we decided to rectify this, unifying the currency would have proved to be a challenge, especially with the long duration of the data points, as currency rates change daily.
 
 ## Results
 
