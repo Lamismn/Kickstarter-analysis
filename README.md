@@ -51,3 +51,27 @@ The output chart of this analysis shows the percentage of success and failure ba
 
 
 
+## Results
+
+Based on the Analysis conducted, we can conclude the following results:
+
+### Outcomes based on Launch date
+
+We can conclude from the chart that the month of May has the highest probability of success for campaigns, as well as the highest number of campaigns launched, followed by the months of June then July. This means that launching the campaign in May would be the best option.
+
+The Chart also shows that the month of December has the lowest success rate for campaigns as well as the lowest number of campaigns launched, so it is advised to avoid launching a campaign in this month
+
+We can also conclude that launching a campaign in a hotter weather month gives it a better chance of success than launching it in a cooler month.
+
+### Outcomes based on Goals
+
+We can conclude from the chart that plays with goals less than $5000 have the highest probability of success & that plays with goals above $45000 have the lowest probability of success. This means that it is advised to try and keep the required goals below $5000 to increase the chances of the campaign's success.
+
+The chart also shows that the plays with goals between $35000 and $45000 do not follow the general pattern of decreasing probability of success as the goal increases.
+
+### Limitations of the dataset
+
+
+
+
+
